@@ -1,0 +1,72 @@
+
+🧮 Validações e Geradores de Dados
+
+- Validador e gerador de CPF
+Validador e gerador de CNPJ
+Validador de e-mail (regex)
+Validador de telefone brasileiro (com DDD)
+Gerador de senhas seguras (personalizável por tamanho e tipo de caracteres)
+Validador de CEP e consulta simulada a endereço (mock)
+Gerador de números de cartão de crédito válidos (Luhn)
+Verificador de placa veicular (padrão Mercosul e antigo)
+
+
+📅 Datas e Tempo
+
+Calculadora de idade (com LocalDate)
+Calculadora de diferença entre datas
+Conversor de data para diferentes formatos (dd/MM/yyyy, yyyy-MM-dd, etc.)
+Gerador de datas aleatórias dentro de um intervalo
+
+
+💵 Cálculos Financeiros
+
+Calculadora de juros simples e compostos
+Simulador de financiamento / parcelas
+Conversor de moedas (mock, com taxa fixa ou API futura)
+Arredondador de valores monetários
+
+
+🔢 Matemática e Números
+
+Cálculo de fatorial, MDC, MMC
+Verificador de número primo / gerador de primos
+Conversor de bases (binário, octal, hexadecimal, decimal)
+Algoritmo de ordenação (BubbleSort, QuickSort, MergeSort, etc.)
+Gerador de matriz aleatória e cálculo de determinante / transposta
+
+
+🧠 Strings e Textos
+
+Contador de palavras e caracteres
+Verificador de palíndromos
+Inversor de texto
+Remoção de acentos e caracteres especiais
+Gerador de slug (para URLs amigáveis)
+
+
+🔐 Utilitários Gerais
+
+Gerador de UUID
+Manipulação de arquivos (ler, escrever, copiar, excluir)
+Leitor de propriedades de configuração (.properties)
+Conversor de unidades (ex: temperatura, distância, peso)
+Verificador de conexão com a internet (ping simples)
+Compactar / descompactar arquivos .zip
+
+
+🎲 Diversão e Exemplos Práticos
+
+- Gerador de números para loteria
+Jogo simples de adivinhação (com Random)
+Simulador de dados (rolagem de 1 a 6)
+Gerador de nomes aleatórios
+Gerador de desafios lógicos ou senhas estilo “quebra-cabeça”
+
+
+💡 Extras para Aprendizado
+
+Implementações de estruturas de dados (pilha, fila, lista, árvore)
+Algoritmos de busca (linear, binária)
+Algoritmos de ordenação (com explicações e comparações)
+Exemplos de uso de Streams e Lambdas
