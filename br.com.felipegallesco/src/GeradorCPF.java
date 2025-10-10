@@ -58,7 +58,5 @@ public class GeradorCPF {
 
         return sb.toString();
 
-
     }
-
 }
