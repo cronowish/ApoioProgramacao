@@ -2,7 +2,7 @@
 🧮 Validações e Geradores de Dados
 
 - Validador e gerador de CPF
-Validador e gerador de CNPJ
+- Validador e gerador de CNPJ
 Validador de e-mail (regex)
 Validador de telefone brasileiro (com DDD)
 Gerador de senhas seguras (personalizável por tamanho e tipo de caracteres)
