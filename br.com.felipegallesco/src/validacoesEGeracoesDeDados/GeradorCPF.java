@@ -5,10 +5,13 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-/** +
+/**
+ * Classe que gera X números de CPFs válidos, sendo X o número informado pelo usuário
  *
+ * @author Felipe Gallesco
+ * @version 1.0
+ * @since 2025-09-20
  */
-
 public class GeradorCPF {
 
     public static void main(String[] args) {

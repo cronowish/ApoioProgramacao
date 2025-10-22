@@ -3,12 +3,11 @@ package validacoesEGeracoesDeDados;
 import java.util.Scanner;
 
 /** +
- *
  * Classe que valida um número de CPF informado pelo usuário
  *
  * @author Felipe Gallesco
  * @version 1.0
- * @since 2024-06-20
+ * @since 2025-09-20
  */
 public class ValidadorCPF {
 
