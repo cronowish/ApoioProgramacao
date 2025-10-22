@@ -1,5 +1,14 @@
 package diversaoEJogos;
 
+/**
+ * Classe que gera três jogos de loteria com seis números únicos entre 1 e 60.
+ *
+ * @author Felipe Gallesco
+ * @version 1.0
+ * @since 2025-09-20 *
+ *
+ */
+
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
