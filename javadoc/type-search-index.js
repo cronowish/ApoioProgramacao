@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"validacoesEGeracoesDeDados","l":"GeradorCNPJ"},{"p":"validacoesEGeracoesDeDados","l":"GeradorCPF"},{"p":"diversaoEJogos","l":"SorteioLoteria"},{"p":"validacoesEGeracoesDeDados","l":"ValidadorCNPJ"},{"p":"validacoesEGeracoesDeDados","l":"ValidadorCPF"}];updateSearchResults();
