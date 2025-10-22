@@ -2,6 +2,14 @@ package validacoesEGeracoesDeDados;
 
 import java.util.*;
 
+/** +
+ * Classe que gera X números de CNPJs válidos, sendo X o número informado pelo usuário
+ *
+ * @author Felipe Gallesco
+ * @version 1.0
+ * @since 2025-09-20
+ */
+
 public class GeradorCNPJ {
 
     public static void main(String[] args) {

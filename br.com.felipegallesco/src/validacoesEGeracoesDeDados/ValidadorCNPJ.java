@@ -2,8 +2,21 @@ package validacoesEGeracoesDeDados;
 
 import java.util.Scanner;
 
+/** +
+ *
+ * Classe que valida um número de CNPJ informado pelo usuário
+ *
+ * @author Felipe Gallesco
+ * @version 1.0
+ * @since 2025-09-20
+ */
 public class ValidadorCNPJ {
 
+    /** +
+     *
+     * @param cnpjEntrada
+     * @return
+     */
     public static boolean isValid(String cnpjEntrada) {
             if (cnpjEntrada == null) return false;
 
@@ -29,6 +42,12 @@ public class ValidadorCNPJ {
             }
         }
 
+    /** +
+     *
+     * @param base
+     * @param weights
+     * @return
+     */
         private static int calculateCheckDigit(String base, int[] weights) {
             int sum = 0;
             for (int i = 0; i < base.length(); i++) {
@@ -39,7 +58,11 @@ public class ValidadorCNPJ {
             return (remainder < 2) ? 0 : (11 - remainder);
         }
 
-        public static void main(String[] args) {
+    /** +
+     *
+     * @param args
+     */
+    public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
 
             System.out.print("Digite o CNPJ: ");

@@ -2,6 +2,14 @@ package validacoesEGeracoesDeDados;
 
 import java.util.Scanner;
 
+/** +
+ *
+ * Classe que valida um número de CPF informado pelo usuário
+ *
+ * @author Felipe Gallesco
+ * @version 1.0
+ * @since 2024-06-20
+ */
 public class ValidadorCPF {
 
     public static void main(String[] args) {
@@ -17,6 +25,11 @@ public class ValidadorCPF {
         }
     }
 
+    /** +
+     *
+     * @param cpf
+     * @return
+     */
     public static boolean isCPFValido(String cpf) {
         if (cpf == null) return false;
 
