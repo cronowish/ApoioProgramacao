@@ -5,7 +5,9 @@ import java.time.format.DateTimeFormatter;
 import java.util.*;
 
 /**
- * Classe que gera três jogos de loteria com seis números únicos entre 1 e 60. Depois ordena os números de cada jogo e exibe-os junto com a data atual em ordem crescente.
+ * Classe que gera três jogos de loteria com seis números únicos entre 1 e 60.
+ *
+ * Depois ordena os números de cada jogo e exibe-os junto com a data atual em ordem crescente.
  *
  * @author Felipe Gallesco
  * @version 1.0
